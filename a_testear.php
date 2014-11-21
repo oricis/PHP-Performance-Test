@@ -203,34 +203,3 @@
 							(int)'no encontrada coincidencia'; break;
 					}
 	}
-	
-
-/* Resultados de ejecutar los métodos y funciones de este fichero:
-
-		Helper Rendimiento / test() 
-
-		Método testeado número: 1
-		Tiempo empleado: 5.1975250244141E-10 milisegundos.
-		Memoria empleada: 315.640859375 kb.
-
-		Método testeado número: 2
-		Tiempo empleado: 3.8385391235352E-10 milisegundos.
-		Memoria empleada: 315.932734375 kb.
-
-		Método testeado número: 3
-		Tiempo empleado: 4.4584274291992E-10 milisegundos.
-		Memoria empleada: 316.223203125 kb.
-
-		Método testeado número: 4
-		Tiempo empleado: 5.7458877563477E-10 milisegundos.
-		Memoria empleada: 316.513515625 kb.
-
-		Método testeado número: 5
-		Tiempo empleado: 3.5524368286133E-10 milisegundos.
-		Memoria empleada: 316.803984375 kb.
-
-		Método testeado número: 6
-		Tiempo empleado: 4.5299530029297E-10 milisegundos.
-		Memoria empleada: 317.094296875 kb.
-
-*/
